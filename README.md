@@ -41,3 +41,9 @@ Validation Macro F1: **0.81**
 ```bash
 pip install -r requirements.txt
 python src/train_and_predict.py
+
+##Context
+
+Built as part of the Data4Good Factuality Challenge.
+
+
