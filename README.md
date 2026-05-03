@@ -31,7 +31,7 @@ Validation Macro F1: **0.81**
 
 ## Structure
 
-- data/ — datasets (not included if restricted)
+- data/ — datasets 
 - notebooks/ — exploration and experiments
 - src/ — reusable utilities and pipeline code
 - submission.csv — example output
